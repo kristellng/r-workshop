@@ -1,9 +1,0 @@
----
-title: "Creating Graphs in R with 'ggplot2'"
-author: "Kristell Ng"
-date: '2023-12-12'
-output: html_document
----
-# Plots with ggplot2
-
-We are going to make plots in R and it's going to be amazing.
